@@ -19,3 +19,4 @@ Now when you type a message, the server will serve that message right back at yo
 
 Now each session can chat to eachother
 
+###### Using this great tutorial to build this and learn more about NodeJS: [tutorial](https://opbeat.com/blog/posts/how-to-write-a-p2p-chat-application-by-mathias-buus/)
