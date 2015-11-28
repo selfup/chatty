@@ -1,5 +1,5 @@
-var net = require('net')
-var streamSet = require('stream-set')
+var net = require('net');
+var streamSet = require('stream-set');
 
 var streams = streamSet();
 var server = net.createServer(function (socket) {

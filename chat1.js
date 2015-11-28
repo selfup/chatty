@@ -1,4 +1,4 @@
-var net = require('net')
+var net = require('net');
 
 var server = net.createServer(function (socket) {
 	console.log('A client has connected!');
